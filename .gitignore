@@ -6,3 +6,5 @@ dist
 .DS_Store
 __pycache__
 *.tsbuildinfo
+# raw image sets (masters); the site ships optimised copies in public/images/colophon/
+public/images/colophon-*/
