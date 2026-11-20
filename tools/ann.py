@@ -87,3 +87,5 @@ ANN['framer-31rs84'] = dict(kind='comp', comp='MenuLine', mod='PhoneNav', props=
 ANN['framer-12llvep'] = dict(kind='addclass', name='form-field')
 ANN['framer-1l9sjon'] = dict(kind='addattr', attr='onSubmit={(e) => e.preventDefault()}')
 ANN['framer-fCc4s'] = dict(kind='addattr', attr='type="submit"')
+for c in ('framer-108c0gu', 'framer-1d4vxtp', 'framer-19uwnpc', 'framer-1hp51g0'):
+    ANN[c] = dict(kind='addclass', name='step-media')

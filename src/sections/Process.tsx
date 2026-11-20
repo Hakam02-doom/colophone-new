@@ -55,7 +55,7 @@ export function Process() {
             <div className="process-box-25">
               <div className="process-box-26" data-fx="process-1">
                 <div className="process-box-27" />
-                <div className="process-box-28">
+                <div className="process-box-28 step-media">
                   <div className="process-box-29">
                     <img className="process-img-2" src="/images/colophon/step-write.webp" alt="" draggable={false} />
                   </div>
@@ -84,7 +84,7 @@ export function Process() {
             <div className="process-box-36">
               <div className="process-box-37" data-fx="process-2">
                 <div className="process-box-38" />
-                <div className="process-box-39">
+                <div className="process-box-39 step-media">
                   <div className="process-box-40">
                     <img className="process-img-3" src="/images/colophon/step-review.webp" alt="" draggable={false} />
                   </div>
@@ -115,7 +115,7 @@ export function Process() {
             <div className="process-box-48">
               <div className="process-box-49" data-fx="process-3">
                 <div className="process-box-50" />
-                <div className="process-box-51">
+                <div className="process-box-51 step-media">
                   <div className="process-box-52">
                     <img className="process-img-4" src="/images/colophon/step-publish.webp" alt="" draggable={false} />
                   </div>
@@ -144,7 +144,7 @@ export function Process() {
             <div className="process-box-59">
               <div className="process-box-60" data-fx="process-4">
                 <div className="process-box-61" />
-                <div className="process-box-62">
+                <div className="process-box-62 step-media">
                   <div className="process-box-63">
                     <img className="process-img-5" src="/images/colophon/step-receipt.webp" alt="" draggable={false} />
                   </div>

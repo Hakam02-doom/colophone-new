@@ -64,3 +64,16 @@
 .form-field input::placeholder {
   color: #999;
 }
+
+/* How-it-works step images fill their grey box (photos rather than the original centred 3D icons) */
+.step-media {
+  inset: 0 !important;
+  width: 100% !important;
+  height: 100% !important;
+  transform: none !important;
+  aspect-ratio: auto !important;
+  overflow: hidden;
+}
+.step-media img {
+  object-fit: cover !important;
+}
