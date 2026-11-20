@@ -1,0 +1,66 @@
+/* Footer link components: label colour → orange on hover (Framer spring .4s, bounce .2) */
+.page [data-name^="Link - Click to go"] p {
+  transition: color 0.4s cubic-bezier(0.25, 1, 0.5, 1);
+}
+.page [data-name^="Link - Click to go"] > *:hover p {
+  color: rgb(255, 112, 64);
+}
+
+/* Newsletter submit button: hover / pressed fills (tween .2s) */
+.footer-button {
+  cursor: pointer;
+  border: none;
+  transition: background-color 0.2s cubic-bezier(0.44, 0, 0.56, 1);
+}
+.footer-button:hover {
+  background-color: rgba(176, 171, 171, 0.85) !important;
+}
+.footer-button:active {
+  background-color: rgb(161, 159, 159) !important;
+}
+
+/* Newsletter email field (Framer form text input) */
+.form-field {
+  padding: 12px;
+  display: flex;
+  align-items: center;
+  background: #bababa00;
+  overflow: hidden;
+}
+.form-field::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  border-style: solid;
+  border-color: #8888881a;
+  border-width: 0 0 1px 0;
+  transition-property: border-color, border-width;
+}
+.form-field:focus-within::after {
+  border-color: #09f;
+  border-width: 1px;
+}
+.form-field input {
+  flex: 1;
+  width: auto;
+  min-width: 0;
+  height: 100%;
+  padding: 0;
+  margin: 0;
+  font-family: "Inter", "Inter Placeholder", sans-serif;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.2em;
+  letter-spacing: 0em;
+  color: #9990;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  background: 0 0;
+  border: none;
+  outline: none;
+  overflow: hidden;
+}
+.form-field input::placeholder {
+  color: #999;
+}

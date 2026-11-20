@@ -1,0 +1,1176 @@
+.works-works-section {
+  background-color: rgb(255, 255, 255);
+  align-content: center;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: min-content;
+  display: flex;
+  position: relative;
+  padding: 200px 0px 0px 0px;
+  gap: 10px;
+  overflow: hidden;
+  flex: none;
+}
+.works-hero-76 {
+  height: 1020px;
+  background-color: rgb(255, 255, 255);
+  width: 100%;
+  position: relative;
+  display: block;
+  overflow: clip;
+  flex: none;
+}
+.works-box {
+  height: 911px;
+  flex-direction: column;
+  align-content: center;
+  justify-content: flex-start;
+  align-items: center;
+  width: 131%;
+  display: flex;
+  position: absolute;
+  top: 73px;
+  left: -15.4931%;
+  gap: 8.18229px;
+  overflow: clip;
+  flex: none;
+}
+.works-box-2 {
+  flex-direction: column;
+  align-content: flex-start;
+  justify-content: flex-start;
+  align-items: flex-start;
+  width: 100%;
+  height: 911px;
+  display: flex;
+  position: relative;
+  flex: none;
+}
+.works-video-carousel {
+  opacity: 0.99;
+  flex-direction: column;
+  align-content: flex-start;
+  justify-content: flex-start;
+  align-items: flex-start;
+  width: 100%;
+  height: min-content;
+  display: flex;
+  position: relative;
+  gap: 16px;
+  overflow: hidden;
+  flex: none;
+}
+.works-box-3 {
+  height: min-content;
+  align-content: flex-start;
+  justify-content: flex-start;
+  align-items: flex-start;
+  width: min-content;
+  display: flex;
+  position: relative;
+  gap: 16px;
+  overflow: clip;
+  flex: none;
+}
+.works-box-4 {
+  height: 336px;
+  width: 886px;
+  position: relative;
+  display: block;
+  border-radius: 7px;
+  overflow: clip;
+  flex: none;
+}
+.works-box-5 {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  display: block;
+  overflow: clip;
+  flex: none;
+}
+.works-box-6 {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  left: 0px;
+  display: block;
+  border-radius: inherit;
+}
+.works-img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  position: static;
+  border-radius: inherit;
+  overflow: clip;
+}
+.works-box-7 {
+  opacity: 0.04;
+  width: 886px;
+  height: 336px;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  display: block;
+  flex: none;
+}
+.works-box-8 {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  left: 0px;
+  display: block;
+  border-radius: inherit;
+}
+.works-img-2 {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: fill;
+  position: static;
+  border-radius: inherit;
+  overflow: clip;
+}
+.works-box-9 {
+  height: 336px;
+  width: 886px;
+  position: relative;
+  display: block;
+  border-radius: 7px;
+  overflow: clip;
+  flex: none;
+}
+.works-box-10 {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  display: block;
+  overflow: clip;
+  flex: none;
+}
+.works-box-11 {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  left: 0px;
+  display: block;
+  border-radius: inherit;
+}
+.works-img-3 {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  position: static;
+  border-radius: inherit;
+  overflow: clip;
+}
+.works-box-12 {
+  opacity: 0.04;
+  width: 886px;
+  height: 336px;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  display: block;
+  flex: none;
+}
+.works-box-13 {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  left: 0px;
+  display: block;
+  border-radius: inherit;
+}
+.works-img-4 {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: fill;
+  position: static;
+  border-radius: inherit;
+  overflow: clip;
+}
+.works-box-14 {
+  height: min-content;
+  align-content: flex-start;
+  justify-content: flex-start;
+  align-items: flex-start;
+  width: min-content;
+  display: flex;
+  position: relative;
+  gap: 16px;
+  overflow: clip;
+  flex: none;
+}
+.works-box-15 {
+  height: 336px;
+  width: 588px;
+  position: relative;
+  display: block;
+  border-radius: 7px;
+  overflow: clip;
+  flex: none;
+}
+.works-box-16 {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  display: block;
+  overflow: clip;
+  flex: none;
+}
+.works-box-17 {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  left: 0px;
+  display: block;
+  border-radius: inherit;
+}
+.works-img-5 {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  position: static;
+  border-radius: inherit;
+  overflow: clip;
+}
+.works-box-18 {
+  aspect-ratio: 1.57971 / 1;
+  width: 746px;
+  height: auto;
+  position: absolute;
+  top: 0px;
+  left: -10px;
+  display: block;
+  flex: none;
+}
+.works-box-19 {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  left: 0px;
+  display: block;
+  border-radius: inherit;
+}
+.works-img-6 {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: fill;
+  position: static;
+  border-radius: inherit;
+  overflow: clip;
+}
+.works-box-20 {
+  height: 336px;
+  width: 588px;
+  position: relative;
+  display: block;
+  border-radius: 7px;
+  overflow: clip;
+  flex: none;
+}
+.works-box-21 {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  display: block;
+  overflow: clip;
+  flex: none;
+}
+.works-box-22 {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  left: 0px;
+  display: block;
+  border-radius: inherit;
+}
+.works-img-7 {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  position: static;
+  border-radius: inherit;
+  overflow: clip;
+}
+.works-box-23 {
+  opacity: 0.04;
+  width: 588px;
+  height: 336px;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  display: block;
+  flex: none;
+}
+.works-box-24 {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  left: 0px;
+  display: block;
+  border-radius: inherit;
+}
+.works-img-8 {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: fill;
+  position: static;
+  border-radius: inherit;
+  overflow: clip;
+}
+.works-box-25 {
+  height: 336px;
+  width: 588px;
+  position: relative;
+  display: block;
+  border-radius: 7px;
+  overflow: clip;
+  flex: none;
+}
+.works-box-26 {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  display: block;
+  overflow: clip;
+  flex: none;
+}
+.works-box-27 {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  left: 0px;
+  display: block;
+  border-radius: inherit;
+}
+.works-img-9 {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  position: static;
+  border-radius: inherit;
+  overflow: clip;
+}
+.works-box-28 {
+  height: 387px;
+  width: 677px;
+  position: absolute;
+  top: 0px;
+  left: calc(51.68% - 338.648px);
+  display: block;
+  overflow: clip;
+  flex: none;
+}
+.works-box-29 {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  left: 0px;
+  display: block;
+  border-radius: inherit;
+}
+.works-img-10 {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  position: static;
+  border-radius: inherit;
+  overflow: clip;
+}
+.works-box-30 {
+  height: min-content;
+  align-content: flex-start;
+  justify-content: flex-start;
+  align-items: flex-start;
+  width: min-content;
+  display: flex;
+  position: relative;
+  gap: 16px;
+  overflow: clip;
+  flex: none;
+}
+.works-box-31 {
+  height: 336px;
+  width: 886px;
+  position: relative;
+  display: block;
+  border-radius: 7px;
+  overflow: clip;
+  flex: none;
+}
+.works-box-32 {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  display: block;
+  overflow: clip;
+  flex: none;
+}
+.works-box-33 {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  left: 0px;
+  display: block;
+  border-radius: inherit;
+}
+.works-img-11 {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  position: static;
+  border-radius: inherit;
+  overflow: clip;
+}
+.works-box-34 {
+  opacity: 0.04;
+  width: 886px;
+  height: 336px;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  display: block;
+  flex: none;
+}
+.works-box-35 {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  left: 0px;
+  display: block;
+  border-radius: inherit;
+}
+.works-img-12 {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: fill;
+  position: static;
+  border-radius: inherit;
+  overflow: clip;
+}
+.works-box-36 {
+  height: 336px;
+  width: 886px;
+  position: relative;
+  display: block;
+  border-radius: 7px;
+  overflow: clip;
+  flex: none;
+}
+.works-box-37 {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  display: block;
+  overflow: clip;
+  flex: none;
+}
+.works-box-38 {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  left: 0px;
+  display: block;
+  border-radius: inherit;
+}
+.works-img-13 {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  position: static;
+  border-radius: inherit;
+  overflow: clip;
+}
+.works-box-39 {
+  opacity: 0.04;
+  width: 886px;
+  height: 336px;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  display: block;
+  flex: none;
+}
+.works-box-40 {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  left: 0px;
+  display: block;
+  border-radius: inherit;
+}
+.works-img-14 {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: fill;
+  position: static;
+  border-radius: inherit;
+  overflow: clip;
+}
+.works-box-41 {
+  position: absolute;
+  flex-direction: column;
+  justify-content: flex-start;
+  display: flex;
+  word-break: break-word;
+  overflow-wrap: break-word;
+  width: 783px;
+  height: auto;
+  top: 1074px;
+  left: 44%;
+  transform: translateX(-50%);
+  flex: none;
+}
+.works-p {
+  display: block;
+  position: static;
+  font-family: Inter, "Inter Placeholder", sans-serif;
+  font-size: 54px;
+  font-weight: 400;
+  line-height: 59.4px;
+  color: rgb(0, 0, 0);
+  text-align: center;
+  white-space: pre-wrap;
+  word-break: break-word;
+  overflow-wrap: break-word;
+}
+.works-span {
+  position: static;
+  display: inline;
+  font-family: Aspekta;
+  font-weight: 600;
+  letter-spacing: -1.08px;
+  color: rgb(255, 255, 255);
+}
+.works-box-42 {
+  --border-bottom-width: 1px;
+  --border-color: #000;
+  --border-left-width: 1px;
+  --border-right-width: 1px;
+  --border-style: solid;
+  --border-top-width: 1px;
+  background-color: rgb(255, 255, 255);
+  width: 125%;
+  height: 414px;
+  position: absolute;
+  top: 863px;
+  left: -12.5347%;
+  display: block;
+  border-radius: 100%;
+  flex: none;
+}
+.works-box-43 {
+  --border-bottom-width: 1px;
+  --border-color: #000;
+  --border-left-width: 1px;
+  --border-right-width: 1px;
+  --border-style: solid;
+  --border-top-width: 1px;
+  background-color: rgb(255, 255, 255);
+  width: 125%;
+  height: 414px;
+  position: absolute;
+  top: -216px;
+  left: -12.5347%;
+  display: block;
+  border-radius: 100%;
+  flex: none;
+}
+.works-box-44 {
+  max-width: 570px;
+  height: 50px;
+  background-color: rgb(255, 255, 255);
+  align-content: center;
+  justify-content: center;
+  align-items: center;
+  width: min-content;
+  display: flex;
+  position: absolute;
+  top: 917px;
+  left: 50%;
+  transform: translate(-50%);
+  box-shadow: rgba(255, 255, 255, 0.59) 0px 1px inset, rgba(0, 0, 0, 0.1) 0px 12px 30px, rgba(0, 0, 0, 0.12) 0px -1px;
+  padding: 15px 20px 15px 20px;
+  border-radius: 12px;
+  gap: 10px;
+  overflow: clip;
+  flex: none;
+}
+.works-box-45 {
+  align-content: center;
+  justify-content: flex-start;
+  align-items: center;
+  width: min-content;
+  height: min-content;
+  display: flex;
+  position: relative;
+  gap: 52px;
+  flex: none;
+}
+.works-box-46 {
+  align-content: center;
+  justify-content: flex-start;
+  align-items: center;
+  width: min-content;
+  height: min-content;
+  display: flex;
+  position: relative;
+  gap: 6px;
+  flex: none;
+}
+.works-box-47 {
+  background-color: rgb(0, 0, 0);
+  width: 11px;
+  height: 11px;
+  position: relative;
+  display: block;
+  border-radius: 99px;
+  flex: none;
+}
+.works-ott {
+  position: relative;
+  flex-direction: column;
+  justify-content: flex-start;
+  display: flex;
+  width: auto;
+  height: auto;
+  flex: none;
+}
+.works-p-2 {
+  display: block;
+  position: static;
+  font-family: Inter, "Inter Placeholder", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 17.6px;
+  color: rgb(0, 0, 0);
+  white-space: pre;
+}
+.works-span-2 {
+  position: static;
+  display: inline;
+  font-family: "Geist Mono";
+  font-weight: 500;
+  letter-spacing: 1px;
+  color: rgb(131, 131, 131);
+  text-transform: uppercase;
+}
+.works-span-3 {
+  position: static;
+  display: inline;
+  font-family: "Geist Mono";
+  white-space: nowrap;
+}
+.works-span-4 {
+  display: inline-block;
+  position: static;
+  font-family: "Geist Mono";
+}
+.works-span-5 {
+  display: inline-block;
+  position: static;
+  font-family: "Geist Mono";
+}
+.works-span-6 {
+  display: inline-block;
+  position: static;
+  font-family: "Geist Mono";
+}
+.works-span-7 {
+  display: none;
+}
+.works-span-8 {
+  display: none;
+}
+.works-box-48 {
+  align-content: center;
+  justify-content: flex-start;
+  align-items: center;
+  width: min-content;
+  height: min-content;
+  display: flex;
+  position: relative;
+  gap: 6px;
+  flex: none;
+}
+.works-box-49 {
+  background-color: rgb(0, 0, 0);
+  width: 11px;
+  height: 11px;
+  position: relative;
+  display: block;
+  border-radius: 99px;
+  flex: none;
+}
+.works-live-shows {
+  position: relative;
+  flex-direction: column;
+  justify-content: flex-start;
+  display: flex;
+  width: auto;
+  height: auto;
+  flex: none;
+}
+.works-p-3 {
+  display: block;
+  position: static;
+  font-family: Inter, "Inter Placeholder", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 17.6px;
+  color: rgb(0, 0, 0);
+  white-space: pre;
+}
+.works-run {
+  font-family: "Geist Mono";
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 17.6px;
+  letter-spacing: 1px;
+  color: rgb(131, 131, 131);
+  text-transform: uppercase;
+}
+.works-box-50 {
+  align-content: center;
+  justify-content: flex-start;
+  align-items: center;
+  width: min-content;
+  height: min-content;
+  display: flex;
+  position: relative;
+  gap: 6px;
+  flex: none;
+}
+.works-box-51 {
+  background-color: rgb(0, 0, 0);
+  width: 11px;
+  height: 11px;
+  position: relative;
+  display: block;
+  border-radius: 99px;
+  flex: none;
+}
+.works-receipts {
+  position: relative;
+  flex-direction: column;
+  justify-content: flex-start;
+  display: flex;
+  width: auto;
+  height: auto;
+  flex: none;
+}
+.works-p-4 {
+  display: block;
+  position: static;
+  font-family: "Geist Mono", monospace;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 17.6px;
+  letter-spacing: 1px;
+  color: rgb(131, 131, 131);
+  text-transform: uppercase;
+  white-space: pre;
+}
+.works-box-52 {
+  align-content: center;
+  justify-content: flex-start;
+  align-items: center;
+  width: min-content;
+  height: min-content;
+  display: flex;
+  position: relative;
+  gap: 6px;
+  flex: none;
+}
+.works-box-53 {
+  background-color: rgb(0, 0, 0);
+  width: 11px;
+  height: 11px;
+  position: relative;
+  display: block;
+  border-radius: 99px;
+  flex: none;
+}
+.works-cc {
+  position: relative;
+  flex-direction: column;
+  justify-content: flex-start;
+  display: flex;
+  width: auto;
+  height: auto;
+  flex: none;
+}
+.works-p-5 {
+  display: block;
+  position: static;
+  font-family: Inter, "Inter Placeholder", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 17.6px;
+  color: rgb(0, 0, 0);
+  white-space: pre;
+}
+.works-span-9 {
+  position: static;
+  display: inline;
+  font-family: "Geist Mono";
+  font-weight: 500;
+  letter-spacing: 1px;
+  color: rgb(131, 131, 131);
+  text-transform: uppercase;
+}
+.works-span-10 {
+  position: static;
+  display: inline;
+  font-family: "Geist Mono";
+  white-space: nowrap;
+}
+.works-span-11 {
+  display: inline-block;
+  position: static;
+  font-family: "Geist Mono";
+}
+.works-span-12 {
+  display: inline-block;
+  position: static;
+  font-family: "Geist Mono";
+}
+.works-span-13 {
+  display: none;
+}
+.works-box-54 {
+  flex-direction: column;
+  align-content: center;
+  justify-content: flex-start;
+  align-items: center;
+  width: 539px;
+  height: min-content;
+  display: flex;
+  position: absolute;
+  top: 6px;
+  left: 50%;
+  transform: translate(-50%);
+  gap: 12px;
+  flex: none;
+}
+.works-box-55 {
+  width: 78px;
+  height: 26px;
+  position: relative;
+  display: block;
+  flex: none;
+}
+.works-box-56 {
+  width: 78px;
+  height: 26px;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  display: block;
+  flex: none;
+}
+.works-slot {
+  width: auto;
+  height: auto;
+  position: absolute;
+  top: 5px;
+  left: 11px;
+  display: block;
+  flex: none;
+}
+.works-box-57 {
+  align-content: center;
+  justify-content: flex-start;
+  align-items: center;
+  width: min-content;
+  height: min-content;
+  display: flex;
+  position: relative;
+  padding: 4px 6px 4px 6px;
+  gap: 10px;
+}
+.works-box-58 {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  left: 0px;
+  display: block;
+  border-radius: inherit;
+}
+.works-img-15 {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: fill;
+  position: static;
+  border-radius: inherit;
+  overflow: clip;
+}
+.works-works {
+  position: relative;
+  flex-direction: column;
+  justify-content: flex-start;
+  display: flex;
+  width: auto;
+  height: auto;
+  flex: none;
+}
+.works-h2 {
+  display: block;
+  position: static;
+  font-family: "Aspekta Variable Variable", "Aspekta Variable Variable Placeholder", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 12.6px;
+  color: rgb(255, 255, 255);
+  text-transform: uppercase;
+  white-space: pre;
+  font-variation-settings: "wght" 400;
+}
+.works-box-59 {
+  background-color: rgb(253, 141, 95);
+  width: 11px;
+  height: 5px;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  display: block;
+  flex: none;
+}
+.works-box-60 {
+  position: relative;
+  flex-direction: column;
+  justify-content: flex-start;
+  display: flex;
+  word-break: break-word;
+  overflow-wrap: break-word;
+  width: 539px;
+  height: auto;
+  flex: none;
+}
+.works-p-6 {
+  display: block;
+  position: static;
+  font-family: "Aspekta Variable Variable", "Aspekta Variable Variable Placeholder", sans-serif;
+  font-size: 40px;
+  font-weight: 400;
+  line-height: 44px;
+  letter-spacing: -0.8px;
+  color: rgb(37, 37, 45);
+  text-align: center;
+  white-space: pre-wrap;
+  font-variation-settings: "wght" 400;
+  word-break: break-word;
+  overflow-wrap: break-word;
+}
+
+@media (min-width: 1440px) and (max-width: 1919.98px) {
+  .works-works-section {
+    max-width: 1710px;
+  }
+}
+
+@media (min-width: 1920px) and (max-width: 2599.98px) {
+  .works-works-section {
+    max-width: 1440px;
+  }
+  .works-box {
+    height: 100%;
+  }
+}
+
+@media (min-width: 2600px) {
+  .works-works-section {
+    max-width: 1440px;
+  }
+  .works-box {
+    height: 100%;
+  }
+}
+
+@media (max-width: 809.98px) {
+  .works-works-section {
+    padding: 50px 0px 0px 0px;
+  }
+  .works-box {
+    height: min-content;
+    width: 403%;
+    left: 50%;
+    transform: translate(-50%);
+  }
+  .works-box-3 {
+    width: 114%;
+  }
+  .works-box-7 {
+    width: 100%;
+  }
+  .works-box-18 {
+    aspect-ratio: 1.57928 / 1;
+    width: 100%;
+  }
+  .works-box-23 {
+    width: 100%;
+    height: auto;
+    aspect-ratio: 1.74481 / 1;
+  }
+  .works-box-42 {
+    width: 200%;
+    left: -50.0347%;
+  }
+  .works-box-43 {
+    width: 200%;
+    left: -50.0347%;
+  }
+  .works-box-44 {
+    width: 95%;
+    left: calc(49.9653% - (0.5 * min(570px, 95%)));
+    transform: unset;
+  }
+  .works-box-45 {
+    justify-content: center;
+    width: 113%;
+    gap: 17px;
+  }
+  .works-p-2 {
+    font-family: "Geist Mono", "Geist Mono Placeholder", monospace;
+    font-size: 14px;
+    font-weight: 500;
+    letter-spacing: 1px;
+    color: rgb(131, 131, 131);
+    text-transform: uppercase;
+  }
+  .works-span-2 {
+    font-family: "Geist Mono", "Geist Mono Placeholder", monospace;
+    white-space: nowrap;
+    font-weight: revert;
+    letter-spacing: revert;
+    color: revert;
+    text-transform: revert;
+  }
+  .works-span-3 {
+    display: inline-block;
+    font-family: "Geist Mono", "Geist Mono Placeholder", monospace;
+    white-space: revert;
+  }
+  .works-span-4 {
+    display: none;
+  }
+  .works-span-5 {
+    display: none;
+  }
+  .works-span-6 {
+    display: none;
+  }
+  .works-span-7 {
+    display: inline-block;
+    position: static;
+    font-family: "Geist Mono", "Geist Mono Placeholder", monospace;
+  }
+  .works-span-8 {
+    display: inline-block;
+    position: static;
+    font-family: "Geist Mono", "Geist Mono Placeholder", monospace;
+  }
+  .works-p-3 {
+    font-family: "Geist Mono", "Geist Mono Placeholder", monospace;
+    font-size: 14px;
+    font-weight: 500;
+    letter-spacing: 1px;
+    color: rgb(131, 131, 131);
+    text-transform: uppercase;
+  }
+  .works-p-4 {
+    font-family: "Geist Mono", "Geist Mono Placeholder", monospace;
+    font-size: 14px;
+  }
+  .works-p-5 {
+    font-family: "Geist Mono", "Geist Mono Placeholder", monospace;
+    font-size: 14px;
+    font-weight: 500;
+    letter-spacing: 1px;
+    color: rgb(131, 131, 131);
+    text-transform: uppercase;
+  }
+  .works-span-9 {
+    font-family: "Geist Mono", "Geist Mono Placeholder", monospace;
+    white-space: nowrap;
+    font-weight: revert;
+    letter-spacing: revert;
+    color: revert;
+    text-transform: revert;
+  }
+  .works-span-10 {
+    display: inline-block;
+    font-family: "Geist Mono", "Geist Mono Placeholder", monospace;
+    white-space: revert;
+  }
+  .works-span-11 {
+    display: none;
+  }
+  .works-span-12 {
+    display: none;
+  }
+  .works-span-13 {
+    display: inline-block;
+    position: static;
+    font-family: "Geist Mono", "Geist Mono Placeholder", monospace;
+  }
+  .works-box-54 {
+    width: 100%;
+    padding: 0px 20px 0px 20px;
+  }
+  .works-box-60 {
+    width: 100%;
+  }
+  .works-p-6 {
+    font-size: 28px;
+    line-height: 30.8px;
+    letter-spacing: -0.56px;
+  }
+}

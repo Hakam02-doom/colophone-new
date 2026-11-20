@@ -1,0 +1,233 @@
+.trusted-box {
+  background-color: rgb(255, 255, 255);
+  flex-direction: column;
+  align-content: center;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: min-content;
+  display: flex;
+  position: relative;
+  gap: 21px;
+  overflow: hidden;
+  flex: none;
+}
+.trusted-box-2 {
+  flex-direction: column;
+  align-content: center;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: min-content;
+  display: flex;
+  position: relative;
+  gap: 38px;
+  flex: none;
+}
+.trusted-box-3 {
+  width: 167px;
+  height: 26px;
+  position: relative;
+  display: block;
+  flex: none;
+}
+.trusted-box-4 {
+  width: 167px;
+  height: 26px;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  display: block;
+  flex: none;
+}
+.trusted-slot {
+  display: none;
+}
+.trusted-slot-2 {
+  width: auto;
+  height: auto;
+  position: absolute;
+  top: 5px;
+  left: 11px;
+  display: block;
+  flex: none;
+}
+.trusted-box-7 {
+  align-content: center;
+  justify-content: flex-start;
+  align-items: center;
+  width: min-content;
+  height: min-content;
+  display: flex;
+  position: relative;
+  padding: 4px 6px 4px 6px;
+  gap: 10px;
+}
+.trusted-box-8 {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  left: 0px;
+  display: block;
+  border-radius: inherit;
+}
+.trusted-img-2 {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: fill;
+  position: static;
+  border-radius: inherit;
+  overflow: clip;
+}
+.trusted-trusted-partners-2 {
+  position: relative;
+  flex-direction: column;
+  justify-content: flex-start;
+  display: flex;
+  width: auto;
+  height: auto;
+  flex: none;
+}
+.trusted-h2-2 {
+  display: block;
+  position: static;
+  font-family: "Aspekta Variable Variable", "Aspekta Variable Variable Placeholder", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 12.6px;
+  color: rgb(255, 255, 255);
+  text-transform: uppercase;
+  white-space: pre;
+  font-variation-settings: "wght" 400;
+}
+.trusted-box-9 {
+  background-color: rgb(61, 131, 246);
+  width: 11px;
+  height: 5px;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  display: block;
+  flex: none;
+}
+.trusted-box-10 {
+  align-content: center;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: min-content;
+  display: flex;
+  position: relative;
+  gap: 10px;
+  flex: none;
+}
+.trusted-slot-3 {
+  width: 100%;
+  height: 200px;
+  position: relative;
+  display: block;
+  flex: none;
+}
+
+@media (min-width: 1440px) and (max-width: 1919.98px) {
+  .trusted-box-2 {
+    gap: 75px;
+  }
+  .trusted-box-3 {
+    order: 0;
+  }
+  .trusted-box-10 {
+    order: 1;
+  }
+}
+
+@media (min-width: 1920px) and (max-width: 2599.98px) {
+  .trusted-box-10 {
+    max-width: 2300px;
+  }
+}
+
+@media (min-width: 2600px) {
+  .trusted-box-10 {
+    max-width: 2300px;
+  }
+}
+
+@media (min-width: 810px) and (max-width: 1199.98px) {
+  .trusted-box {
+    gap: 10px;
+    flex-direction: revert;
+  }
+  .trusted-box-2 {
+    width: 1px;
+    padding: 40px 0px 40px 0px;
+    flex: 1 0 0px;
+  }
+}
+
+@media (max-width: 809.98px) {
+  .trusted-slot {
+    width: auto;
+    height: auto;
+    position: absolute;
+    top: 5px;
+    left: 11px;
+    display: block;
+    flex: none;
+  }
+  .trusted-box-5 {
+    align-content: center;
+    justify-content: flex-start;
+    align-items: center;
+    width: min-content;
+    height: min-content;
+    display: flex;
+    position: relative;
+    padding: 4px 6px 4px 6px;
+    gap: 10px;
+  }
+  .trusted-box-6 {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    left: 0px;
+    display: block;
+    border-radius: inherit;
+  }
+  .trusted-img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: fill;
+    position: static;
+    border-radius: inherit;
+    overflow: clip;
+  }
+  .trusted-trusted-partners {
+    position: relative;
+    flex-direction: column;
+    justify-content: flex-start;
+    display: flex;
+    width: auto;
+    height: auto;
+    flex: none;
+  }
+  .trusted-h2 {
+    display: block;
+    position: static;
+    font-family: "Aspekta Variable Variable", "Aspekta Variable Variable Placeholder", sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 12.6px;
+    color: rgb(255, 255, 255);
+    text-transform: uppercase;
+    white-space: pre;
+    font-variation-settings: "wght" 400;
+  }
+  .trusted-slot-2 {
+    display: none;
+  }
+}
