@@ -27,3 +27,7 @@ Pixel-faithful React clone of https://altruistic-structure-710194.framer.app/ (V
 - Copy: `tools/site_copy.py` maps each original string to Colophon copy (per section, in DOM order), applied by `tools/gen.py`. Keep non-breaking-space tokens ≤ 12 characters: Framer's text effect lets longer tokens break mid-word.
 - Logos: `python tools/make_logos.py` builds `public/images/colophon-*.svg` and the `connect-*.svg` tiles (Inter 600 outlines + Colophon mark).
 - Images: `tools/images.py` lists each original image, its replacement file and prompt. `python tools/gen_images.py` generates them via the ChatGPT app's Codex CLI (`image_generation`), crops to the original size into `public/images/colophon/`; `gen.py` swaps a src only once its file exists.
+
+## Deploy
+- GitHub: https://github.com/Hakam02-doom/colophone-new (private). Vercel project `colophone-new` (https://colophone-new.vercel.app) is connected to it; pushes to `main` deploy to production.
+- Vercel blocks deployments whose commit author isn't linked to a Git account, so commits must use an email on the GitHub account (e.g. `211719248+Hakam02-doom@users.noreply.github.com`).
